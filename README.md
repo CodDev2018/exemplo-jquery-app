@@ -1,4 +1,4 @@
 Exemplo de navegação de páginas com JQuery
 
-Visite: www.codinomedeveloper.com.br
-Curta: https://www.facebook.com/codinomedeveloper2018
+Visite: www.coddev.com.br
+Curta: https://www.facebook.com/CodDev2018
